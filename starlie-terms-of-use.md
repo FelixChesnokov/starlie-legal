@@ -1,0 +1,226 @@
+<!--
+TO COMPLETE BEFORE PUBLISHING
+This document contains the following placeholders that must be filled in before publication:
+- [LEGAL ENTITY — to be completed]   (the formal operating company name)
+- [REGISTERED ADDRESS]               (the company's registered postal address)
+- [CONTACT EMAIL]                     (support / legal contact email)
+CHANGES FLAGGED vs. source:
+- GOVERNING LAW / FORUM changed from California, USA to UKRAINE (Sections "International Users" and "Governing Law"). See those sections.
+- "Authorized Providers" / reseller section REMOVED (Starlie has no reseller model). Subsequent sections renumbered.
+- "Public Areas and Group Areas" public-community section REMOVED (Starlie has no public community/forum); User Content ownership concepts retained.
+- Website URLs, newsletter, and US export-control language removed/neutralized (app-only product).
+- Brand name and contact details replaced with Starlie / placeholders.
+- Copyright (DMCA) section: retained structurally as a takedown procedure but US statutory citations softened to "applicable law"; designated agent details replaced with [CONTACT EMAIL].
+CHANGES FLAGGED (this revision):
+- Limitation of Liability (Sec. 14) now opens with an explicit mandatory-law carve-out (no exclusion/limitation for death or personal injury, fraud, or gross negligence, or any liability that cannot be excluded by law).
+- Liability cap converted to a formula (amount actually paid for the Subscription in the 12 months preceding the claim); the hardcoded EUR 100 figure and "greater of" wording removed. No currency figures hardcoded.
+- New Sec. 6 "Eligibility; Parent/Guardian Status and Authority" added: 18+/age-of-majority requirement, warranty that the user is the parent/legal guardian (or has another parent/guardian's consent) with authority to provide the child's data and give consents on the child's behalf, parental-responsibility clause, and assumption-of-risk acknowledgement. Subsequent sections renumbered and cross-references updated.
+- New Sec. 4 "Subscriptions, Right of Withdrawal and App Store Billing" added: 14-day distance-contract withdrawal right with disclosed procedure (extends to 12 months if not disclosed), immediate-performance / loss-of-withdrawal-right consent for digital content, and App Store / Google Play billing and mandated-terms block. Subsequent sections renumbered.
+- Indemnification clause retained and strengthened.
+-->
+
+# Starlie Terms of Use
+
+Welcome to [LEGAL ENTITY — to be completed] (**"Starlie," "we," "us,"** or **"our"**). We have developed software and personal services that aim to increase or improve your child's wellness (including but not limited to helping children sleep better and longer, and tracking feeding, diapers, pumping, growth, walks, solids, and other activities). The Starlie mobile application on mobile phones or tablets is copyrighted material belonging to Starlie. The application, as well as any personal services provided by Starlie, its affiliates, agents, or third party service provider partners, are referred to collectively as the **"Products"** in this document.
+
+Your use of the Products is subject to the terms and conditions set forth below (these **"Terms of Use"**).
+
+> **PLEASE READ THESE TERMS OF USE CAREFULLY. BY USING THE PRODUCTS, CREATING AN ACCOUNT (DEFINED BELOW), OR PAYING FOR THE PRODUCTS (DEFINED BELOW), YOU AGREE TO BE BOUND BY THESE TERMS OF USE AND REPRESENT AND WARRANT THAT YOU ARE AT LEAST 18 YEARS OLD OR ARE THE LEGAL AGE OF MAJORITY IN YOUR PROVINCE, TERRITORY, OR COUNTRY. IF YOU (A) ARE UNDER THE AGE OF EIGHTEEN AND NOT A PERMITTED USER (A PERMITTED USER MAY BE SOMEONE UNDER 18 OR THE LEGAL AGE OF MAJORITY WHO HAS THE EXPRESS CONSENT OF HIS OR HER PARENT OR GUARDIAN TO USE THE PARENT'S OR GUARDIAN'S ACCOUNT) OR (B) DO NOT WISH TO BE BOUND BY THESE TERMS OF USE, YOU MAY NOT ACCESS OR USE THE PRODUCTS OR CREATE AN ACCOUNT. STARLIE DOES NOT PROMISE, GUARANTEE, OR WARRANT ANY SPECIFIC RESULTS FROM YOUR USE OF THE PRODUCTS.**
+
+> **THESE TERMS OF USE CONTAIN VERY IMPORTANT INFORMATION ABOUT YOUR RIGHTS, OBLIGATIONS, LIMITATIONS, AND EXCLUSIONS THAT MAY APPLY TO YOU, INCLUDING A CHOICE OF LAW PROVISION AND A FORUM SELECTION CLAUSE.**
+
+To access and use certain features of the Products, you may be required to agree to certain additional terms and conditions and to register for those features. All such additional terms and conditions are hereby made a part of these Terms of Use. In the event of any conflict or inconsistency between these Terms of Use and any additional terms and conditions, the additional terms and conditions will control, but solely with respect to the subject matter thereof.
+
+## 1. Account
+
+In order to access and use our Products, you must have an account (**"Account"**) that contains certain information about you. You represent and warrant that (a) all required information you submit is truthful and accurate; and (b) you will maintain the accuracy of such information. You may delete your Account at any time, for any reason, by following the instructions in the Product or contacting us at [CONTACT EMAIL]. We may suspend or terminate your Account in accordance with Section 19 (Termination). You are responsible for maintaining the confidentiality of your Account login information and are fully responsible for all activities that occur under your Account. You agree to immediately notify us of any unauthorized use, or suspected unauthorized use, of your Account or any other breach of security. We cannot and will not be liable for any loss or damage arising from your failure to comply with these requirements.
+
+## 2. Eligibility; Parent/Guardian Status and Authority
+
+A. **Age.** You represent and warrant that you are at least 18 years old, or that you have reached the legal age of majority in your province, territory, or country. You may not create an Account or use the Products if you do not meet this requirement, except as a Permitted User using a parent's or guardian's Account with that parent's or guardian's express consent.
+
+B. **Parent or Guardian Status and Authority.** The Products are designed to be used by a parent or legal guardian to track and support the care of a child. If you provide any information about a child, you represent and warrant that:
+
+- you are the parent or legal guardian of that child, or you have the consent of a parent or legal guardian of that child; and
+- you have full authority to provide that child's information to us, and to give, manage, and withdraw all consents relating to that child's information on the child's behalf, including the consents described in our Privacy Policy.
+
+C. **Parental Responsibility.** You are solely responsible for the care, safety, and wellbeing of your child and for all decisions you make in connection with your child, including any decision made or not made on the basis of the Products, the Site Content, the Starlie AI assistant, or any other content or output of the Products. The Products provide general informational and educational content only and are not a substitute for the judgment of a parent, guardian, or qualified professional.
+
+D. **Assumption of Risk.** You acknowledge that you use the Products voluntarily and at your own risk, that any content or output of the Products may be inaccurate or incomplete, and that you will not rely on the Products as a substitute for professional advice. This Section is in addition to, and does not limit, the Starlie Disclaimer and Section 10 (No Medical Advice).
+
+## 3. Fees
+
+A. We provide access to certain features in our Products on a paid basis (each, a **"Paid Offering"**). Upon using any Paid Offering, you will be responsible for the payment of the applicable fees as described in our Products. You acknowledge that we reserve the right to change our fees from time to time in our discretion. We will notify you of such changes by posting a notice in our Products or sending you an email notice to the email address you provided for your Account. You hereby authorize us, or the applicable app store, to bill your payment method as described in this Section.
+
+B. **Free Trial.** We may offer a free trial of the Paid Offerings, the duration of which may change from time to time. You will not be charged for the Paid Offerings during the trial period. Unless communicated otherwise, free trials are only available to new users of Starlie, and you may receive your free trial offer only once. Once the trial period ends, you can continue to use the Products for free but will no longer have access to the Paid Offerings unless you pay for the products. If you subscribe to a Paid Offering before your free trial period ends, your subscription will start immediately and your free trial will end.
+
+## 4. Payment
+
+You are responsible for paying all fees and applicable taxes associated with our Paid Offerings in a timely manner with a valid payment method. If your payment method fails or any amounts owed to Starlie are past due, we may collect fees owed using other collection mechanisms (including retaining collection agencies and legal counsel) or suspend your Account and/or access to any or all (whether or not a Paid Offering) Products. For Paid Offerings that are paid with a recurring subscription, all subscriptions automatically renew upon the expiration of the then-current subscription period, unless canceled earlier. You may cancel your subscription through the subscription management settings of the applicable app store (such as the Apple App Store or Google Play Store) or as set forth in Section 25 (Contact Information) below. We, or the applicable app store, will automatically bill your payment method on the date that your subscription to the applicable Paid Offering begins, and each date thereafter on which a successive subscription period begins, until you cancel your subscription to that Paid Offering. If we change our subscription fees, any such change will not apply until your next subscription period.
+
+## 5. Subscriptions, Right of Withdrawal, and App Store Billing
+
+A. **Order with Payment.** When you purchase a Paid Offering, you place an order that carries an obligation to pay. The price, billing period, and any free trial that apply to your purchase are shown to you in the Products and, where the purchase is made through an app store, in that store's purchase interface, before you confirm the purchase. We do not state prices, trial lengths, or renewal amounts in these Terms of Use, so that the figures shown to you at the point of purchase always govern.
+
+B. **Right of Withdrawal (14 Days).** If you are a consumer, you have the right to withdraw from your purchase of a Paid Offering within 14 days from the day the contract is concluded, without giving any reason. To exercise this right, you must inform us of your decision to withdraw by a clear statement, for example by email to [CONTACT EMAIL], before the 14-day period expires. It is sufficient that you send your communication before the period ends. Where your purchase was made through an app store, you may also need to request the refund through that store, as described in Section 5.D. If we have not made this withdrawal right and its procedure available to you, the withdrawal period is extended to 12 months as required by applicable consumer-protection law.
+
+C. **Immediate Performance and Loss of the Withdrawal Right.** A Paid Offering is digital content and a digital service that is supplied immediately. By purchasing a Paid Offering and obtaining access to it, you expressly request and consent to the immediate performance of the contract and the immediate supply of the digital content and service before the end of the 14-day withdrawal period, and you acknowledge that, once performance has begun, you lose your right of withdrawal to the extent permitted by applicable law. Where applicable law requires a refund of amounts corresponding to the part of the service not yet supplied, that requirement continues to apply.
+
+D. **Purchases Through the Apple App Store or Google Play.** Where you purchase a Paid Offering through the Apple App Store or Google Play, payment, billing, the "order with payment" confirmation, automatic renewal, and cancellation are handled through that store's purchase interface and your subscription settings in that store, and are subject to that store's terms. To cancel a subscription bought through a store, or to request a refund from a store, you must use the subscription-management and refund tools provided by that store; we may not be able to cancel or refund a store-billed subscription on your behalf.
+
+E. **App Store / Google Play Terms.** You acknowledge and agree that:
+
+- the contract for the Products is between you and Starlie, and not with Apple or Google;
+- subscriptions automatically renew at the price and for the billing period shown to you at purchase, unless you cancel before the renewal date;
+- you can cancel a subscription, and manage auto-renewal, through your account settings in the store from which you obtained the Products; and
+- current prices, billing periods, and any free-trial terms are those shown to you in the Products and in the store at the time of purchase.
+
+This Section 5 supplements, and does not replace, the additional App Store terms in Section 7.
+
+## 6. Proprietary Rights
+
+A. **Products and Site Content; Ownership; and License.** Starlie owns and provides the Products. The content and information available on the Products (the **"Site Content"**), including data created as you use the Products (**"Product Data"**, see item 6B) and user feedback (**"Feedback"**, see item 6C), but excluding any content submitted by users of the Products (**"User Content"**, see item 6D), is owned by Starlie and its licensors. Subject to these Terms of Use, Starlie grants you a limited license to: (i) access and use the Products solely for your personal, non-commercial purposes; (ii) install and use the Products on your own mobile phone or tablet device, in executable object code format only, for your personal, non-commercial use; and (iii) reproduce portions of the Site Content for the sole purpose of reviewing such Site Content as a visitor to the Products. You agree not to remove any copyright, trademark, or other proprietary rights notices contained in or on the Products or Site Content, or to "frame" or "mirror" any part of our Products or Site Content without prior written consent from Starlie. Any unauthorized use, reproduction, modification, distribution, display, or performance of the Products or any Site Content is strictly prohibited. You shall not disassemble, reverse compile, or reverse engineer any part of the Products or Site Content. Starlie and its licensors reserve all rights not granted in these Terms of Use.
+
+B. **Product Data; Ownership; and License.** The information that is created when you sign up to use our Products or in fact use our Products — for example, data regarding your child's sleep, information you provide to us in questionnaires, or data generated by your use of or progress in the Products (collectively, **"Product Data"**) — is owned by Starlie and its licensors.
+
+C. **Feedback; Ownership; and License.** If you provide any comments, testimonials, feedback, or suggestions to Starlie regarding the Products, or any of Starlie's services (collectively, **"Feedback"**), Starlie may use such Feedback for any purpose. So that we may incorporate such Feedback into Starlie's Products and/or Starlie's services, Starlie alone will own all right, title, and interest, including all related intellectual property rights, in and to all such Feedback, and in consideration for your use of the Products and Site Content, you hereby assign such Feedback to Starlie free of charge.
+
+D. **User Content; Ownership; and License.** **User Content** refers to any content that you submit to us, such as a profile photo, diary entries, notes, or photo attachments. User Content does not include Product Data. We do not claim ownership in any of your User Content. You hereby grant us a worldwide, perpetual, irrevocable, non-exclusive, fully-paid, and royalty-free license, with the right to sublicense through multiple levels, to store, reproduce, perform, display, transmit, distribute, create derivative works of, and otherwise use your User Content in connection with providing our Products. You agree to irrevocably waive (and cause to be waived) any claims and assertions of moral rights or attribution with respect to your User Content. You should only upload your User Content to our Products (a) for which you are willing to grant the licenses described above and (b) for which you have sufficient rights to grant the licenses described above.
+
+E. **No Implied Licenses.** There are no implied licenses granted in these Terms of Use.
+
+## 7. Apple App Store; Google Play Store Terms and Conditions
+
+You acknowledge and agree that the availability of the Products as native applications on mobile phones and tablets is dependent on the third party from which you received the Products (**"App Store"**), e.g., the Apple App Store or Google Play Store. You acknowledge that these Terms of Use are between you and Starlie and not with the App Store. Each App Store may have its own terms and conditions to which you must agree before downloading the Products from it. You agree to comply with, and your license to use the Products is conditioned upon your compliance with, all applicable terms and conditions of the applicable App Store. The following additional terms and conditions apply to you if you are using Products from the Apple App Store. To the extent the other Terms of Use are less restrictive than, or otherwise conflict with, the terms and conditions of this Section 7, the more restrictive or conflicting terms and conditions in this Section 7 apply, but solely with respect to Products from the Apple App Store.
+
+A. **Acknowledgement.** Starlie and you acknowledge that these Terms of Use are concluded between Starlie and you only, and not with Apple, and that Starlie, not Apple, is solely responsible for the Products and the content thereof. To the extent these Terms of Use provide for usage rules for the Products that are less restrictive than the Usage Rules set forth for the Products in, or otherwise are in conflict with, the Apple App Store Terms of Service, the more restrictive or conflicting Apple term applies.
+
+B. **Scope of License.** The license granted to you for the Products is limited to a non-transferable license to use the Products on an iOS product that you own or control and as permitted by the Usage Rules set forth in the Apple App Store Terms of Service.
+
+C. **Maintenance and Support.** Starlie is solely responsible for providing any maintenance and support services with respect to the Products, as specified in these Terms of Use (if any), or as required under applicable law. Starlie and you acknowledge that Apple has no obligation whatsoever to furnish any maintenance and support services with respect to the Products. Starlie may choose to terminate the compatibility of its Products at any time with older operating systems of Apple or Google but will provide notice to you by either of the means noted above (email or posting revised terms in our Products).
+
+D. **Warranty.** Starlie is solely responsible for any product warranties, whether express or implied by law, to the extent not effectively disclaimed. In the event of any failure of the Products to conform to any applicable warranty, you may notify Apple, and Apple will refund the purchase price for the Products to you; and to the maximum extent permitted by applicable law, Apple will have no other warranty obligation whatsoever with respect to the Products, and any other claims, losses, liabilities, damages, costs, or expenses attributable to any failure to conform to any warranty will be Starlie's sole responsibility.
+
+E. **Product Claims.** Starlie and you acknowledge that Starlie, not Apple, is responsible for addressing any claims of you or any third party relating to the Products or your possession and/or use of the Products, including, but not limited to: (i) product liability claims; (ii) any claim that the Products fail to conform to any applicable legal or regulatory requirement; and (iii) claims arising under consumer protection or similar legislation. These Terms of Use do not limit Starlie's liability to you beyond what is permitted by applicable law.
+
+F. **Intellectual Property Rights.** Starlie and you acknowledge that, in the event of any third party claim that the Products or your possession and use of the Products infringe that third party's intellectual property rights, as between Starlie and Apple, Starlie, not Apple, will be solely responsible for the investigation, defense, settlement, and discharge of any such intellectual property infringement claim.
+
+G. **Legal Compliance.** You represent and warrant that (i) you are not located in a country that is subject to an applicable government embargo, or that has been designated by an applicable government as a "terrorist supporting" country; and (ii) you are not listed on any applicable government list of prohibited or restricted parties.
+
+H. **Developer Name and Address.** Starlie's contact information for any end-user questions, complaints, or claims with respect to the Products is set forth in Section 25 (Contact Information).
+
+I. **Third Party Terms of Agreement.** You must comply with applicable third party terms of agreement when using the Products.
+
+J. **Third Party Beneficiary.** Starlie and you acknowledge and agree that Apple, and Apple's subsidiaries, are third party beneficiaries of these Terms of Use, and that, upon your acceptance of the terms and conditions of these Terms of Use, Apple will have the right (and will be deemed to have accepted the right) to enforce these Terms of Use against you as a third party beneficiary thereof.
+
+## 8. Acceptable Use and Conduct
+
+You are solely responsible for your User Content. You assume all risks associated with use of your User Content, including any reliance on its accuracy, completeness, or usefulness by others, or any disclosure of your User Content that makes you or any third party personally identifiable. You agree that you will use the Products in a manner consistent with any and all applicable laws and regulations.
+
+A. **Prohibited Content.** You agree that you will not post, exchange, make available, provide, or process any Prohibited Content on the Products. **"Prohibited Content"** means content that: (a) we believe, in our sole discretion, is objectionable, offensive, harmful (i.e., computer viruses), or unlawful, or content that may cause harm to us, our Products, and other users, directly or indirectly.
+
+B. **Breach.** Any use of our Products in violation of these Terms of Use may result in, among other things, immediate suspension or termination of your Account and/or suspension or termination of your rights to use our Products. All suspension decisions are made in our sole discretion and may be made without prior notice to you. In order to cooperate with legitimate governmental requests, subpoenas, or court orders, to protect our systems, affiliates, service providers, partners, and other users, or to ensure the integrity and operation of our business and systems, we may access and disclose any information or content we consider necessary or appropriate, including your Account information (i.e., name, email address, etc.), IP address and traffic information, usage history, and your User Content. All such disclosures shall be made in compliance with our Privacy Policy.
+
+C. **Enforcement by Us.** We have the right (but not the obligation) to review any or all portions of your User Content and delete (or modify) any of your User Content from our Products for any reason, including if we believe, in our sole discretion, that your User Content violates these Terms of Use or is Prohibited Content, or may otherwise threaten the safety of, or harm, any other person, or create liability for us or any other person. We reserve the right (but have no obligation) to investigate and take appropriate action, including removing the Prohibited Content from our Products (or modifying it), suspending or terminating your Account and/or suspending or terminating the provision of our Products, and reporting you to law enforcement authorities, in our sole discretion, if you violate this provision or any other provision of these Terms of Use.
+
+D. **No Disruption.** You will not: (a) cover or obscure any content in the Products via any means; (b) harvest, collect, gather, or assemble information or data regarding other users, including email addresses, without their consent; (c) interfere with, disrupt, or create an undue burden on servers or networks connected to the Products, or violate the regulations, policies, or procedures of such networks; (d) attempt to gain unauthorized access to the Products or other computer systems or networks connected to or used together with the Products, through password mining or other means; (e) harass or interfere with another user's use and enjoyment of the Products; or (f) introduce software or automated agents or scripts to the Products so as to produce multiple accounts, generate automated searches, requests, and queries, or to strip, scrape, or mine data from the Products.
+
+## 9. Third Party Sites; Other Users and Third Party Referrals
+
+A. **Third Party Sites.** The Products may contain links to other websites or services operated by third parties, or advertisements for third parties (collectively, **"Third Party Sites"**). Third Party Sites are not under our control and, therefore, we are not responsible for the content of any Third Party Site or any link contained in a Third Party Site. Starlie provides these links only as a convenience and does not review, approve, monitor, endorse, warrant, or make any representations with respect to Third Party Sites. If you decide to access or use any of the Third Party Sites linked to the Products, you do this entirely at your own risk. Third Party Sites are not subject to these Terms of Use or the Starlie Privacy Policy, but are subject to their own terms and policies, including those relating to privacy, tracking, and data gathering practices.
+
+B. **Other Users.** Each user of the Products is solely responsible for any and all of his or her User Content. Because we do not control User Content, you acknowledge and agree that we are not responsible for any User Content, and we make no guarantees regarding the accuracy, currency, suitability, or quality of any User Content, and we assume no responsibility for any User Content. Your interactions with other users of our Products are solely between you and such user. You agree that Starlie will not be responsible for any loss or damage incurred as the result of any such interactions. If there is a dispute between you and any user, we are under no obligation to become involved.
+
+C. **Third Party Referrals.** We may provide referrals to you of third party services that we believe may be beneficial to you or your child (**"Third Party Referrals"**). Third Party Referrals are not under our control and, therefore, we are not responsible for any services they may provide. Starlie provides these referrals only as a convenience and does not review, approve, monitor, endorse, warrant, or make any representations with respect to Third Party Referrals. If you decide to contact or work with any Third Party Referral, you do this entirely at your own risk.
+
+D. **Release.** You hereby release and forever discharge us (and our officers, directors, employees, agents, successors, and assigns) from, and hereby waive and relinquish, each and every past, present, and future dispute, claim, controversy, demand, right, obligation, liability, action, and cause of action of every kind and nature (including personal injuries, death, and property damage), that has arisen or arises directly or indirectly out of, or relates directly or indirectly to, any interactions with, or act or omission of, other users of our Products, Third Party Sites, or Third Party Referrals, to the maximum extent permitted by applicable law.
+
+## 10. No Medical Advice
+
+The Products, Site Content, User Content, your Product Data, and any content generated by the Starlie AI assistant are for informational purposes only and are not intended to substitute for professional medical advice, diagnosis, or treatment. You should seek the advice of a physician or other qualified health provider with whom you have such a relationship if you have questions regarding any medical condition, or if you or your child are experiencing any symptoms of or believe you may have any medical condition, regardless of any information contained within the Products, Site Content, User Content, or your Product Data. You should not ignore professional medical advice or delay in seeking it because of any information contained within the Products, Site Content, User Content, or your Product Data. Furthermore, you should not interpret any information contained within the Products, Site Content, User Content, or your Product Data as recommending any specific treatment plan, product, or course of action. You should always consult your physician or other qualified health provider before starting any new treatment or stopping any treatment that has been prescribed for you by your physician or other qualified health provider. If you believe you or your child are experiencing any negative effects or illness from using the Products, you should immediately stop such use and contact your physician or other qualified health provider, as well as Starlie at the address specified below. We do not guarantee the accuracy, completeness, or timeliness of any information contained within the Products, Site Content, User Content, or your Product Data.
+
+## 11. Backups
+
+We are not obligated to back up any of your User Content or your Product Data. You are solely responsible for creating backup copies of and replacing any of your User Content that you post or store on our Products.
+
+## 12. Copyright Policy
+
+Starlie respects the intellectual property of others and asks that users of our Products do the same. In connection with our Products, we have adopted and implemented a policy respecting copyright law that provides for the removal of any infringing materials and for the termination, in appropriate circumstances, of users of our Products who are repeat infringers of intellectual property rights, including copyrights. If you believe that one of our users is, through the use of our Products, unlawfully infringing the copyright(s) in a work, and wish to have the allegedly infringing material removed, the following information, in the form of a written notification, must be provided to us at [CONTACT EMAIL]:
+
+A. your physical or electronic signature;
+
+B. identification of the copyrighted work(s) that you claim to have been infringed;
+
+C. identification of the material on our Products that you claim is infringing and that you request us to remove;
+
+D. sufficient information to permit us to locate such material;
+
+E. your address, telephone number, and email address;
+
+F. a statement that you have a good faith belief that use of the objectionable material is not authorized by the copyright owner, its agent, or under the law; and
+
+G. a statement that the information in the notification is accurate, and that you are either the owner of the copyright that has allegedly been infringed or that you are authorized to act on behalf of the copyright owner.
+
+H. Please note that, under applicable law, any misrepresentation of material fact (falsities) in a written notification may subject the complaining party to liability for any damages, costs, and attorney's fees incurred by us in connection with the written notification and allegation of copyright infringement.
+
+## 13. Trademarks
+
+All trademarks, logos, and service marks (collectively, **"Marks"**) displayed on the Products are Starlie's property or the property of other third parties. You are not permitted to use these Marks without Starlie's prior written consent or the consent of the third party that owns the Marks.
+
+## 14. Privacy
+
+Starlie may collect certain personal information from you in connection with your use of the Products. The collection, use, and sharing of such personal information is governed by the Starlie Privacy Policy.
+
+## 15. Warranty Disclaimer
+
+> STARLIE IS PROVIDING THE PRODUCTS AND ANY SERVICES PROVIDED BY STARLIE HEREUNDER ON AN "AS IS" AND "AS AVAILABLE" BASIS FOR USE AT YOUR OWN RISK. STARLIE (AND ITS SUPPLIERS) DISCLAIMS ALL WARRANTIES, WHETHER EXPRESS, IMPLIED, OR STATUTORY, INCLUDING ANY WARRANTIES OF TITLE, NONINFRINGEMENT OF THIRD PARTY RIGHTS, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, ACCURACY, AND QUIET ENJOYMENT. STARLIE DOES NOT PROMISE, GUARANTEE, OR WARRANT ANY SPECIFIC RESULTS FROM YOUR USE OF THE PRODUCTS. STARLIE (AND ITS SUPPLIERS) DOES NOT WARRANT THE ACCURACY OR COMPLETENESS OF THE SITE CONTENT OR THAT THE PRODUCTS OR ANY SERVICES PROVIDED BY STARLIE HEREUNDER WILL BE PROVIDED FREE OF VIRUSES OR OTHER HARMFUL CODE, UNINTERRUPTED, OR ERROR FREE, OR THAT ALL ERRORS WILL BE CORRECTED. THE SITE CONTENT IS PROVIDED WITH THE UNDERSTANDING THAT NEITHER STARLIE NOR ITS LICENSORS OR SUPPLIERS ARE ENGAGED IN RENDERING MEDICAL, LEGAL, OR OTHER PROFESSIONAL SERVICES OR ADVICE. THE SITE CONTENT IS INTENDED SOLELY FOR YOUR INFORMATIONAL PURPOSES AND IS NOT INTENDED AS MEDICAL ADVICE, OR TO BE USED FOR MEDICAL DIAGNOSIS OR TREATMENT, FOR ANY PROBLEM. IT IS ALSO NOT INTENDED AS A SUBSTITUTE FOR PROFESSIONAL ADVICE AND SERVICES FROM A QUALIFIED HEALTHCARE PROVIDER FAMILIAR WITH YOUR OR YOUR CHILD'S UNIQUE FACTS.
+
+## 16. Limitation of Liability
+
+A. **Liabilities that are not excluded or limited.** Nothing in these Terms of Use excludes or limits Starlie's liability for: (i) death or personal injury caused by Starlie's negligence; (ii) fraud or fraudulent misrepresentation; (iii) gross negligence or wilful misconduct; or (iv) any other liability that cannot be excluded or limited under applicable mandatory law, including mandatory consumer-protection law. The remaining provisions of this Section apply only to the extent permitted by applicable law and are subject to this Section 16.A.
+
+B. **Excluded types of loss.** Subject to Section 16.A, and to the maximum extent permitted by applicable law, in no event shall Starlie be liable for any indirect, incidental, special, exemplary, or consequential damages arising out of or relating to these Terms of Use, the Products, or any service provided by Starlie hereunder, including any damages resulting from loss of use, loss of data, or loss of profits, whether or not Starlie has been advised of the possibility of such damages, on any theory of liability.
+
+C. **Cap on liability.** Subject to Section 16.A, and to the maximum extent permitted by applicable law, Starlie's total aggregate liability arising out of or relating to these Terms of Use, the Products, or any service provided by Starlie hereunder, whether in contract, tort, or otherwise, shall not exceed the amount you actually paid for the Subscription giving rise to the claim in the twelve (12) months immediately preceding the event that gave rise to the claim. The existence of more than one claim will not enlarge this limit. You acknowledge that our suppliers and licensors will have no liability under these Terms of Use.
+
+## 17. Exclusions
+
+Some jurisdictions do not allow the exclusion of certain warranties or the exclusion or limitation of liability for consequential or incidental damages, so those specific limitations that are not allowed in Sections 15 (Warranty Disclaimer) and/or 16 (Limitation of Liability) above, as applicable, may not apply to you. The duration of any such warranty that may not be excluded is limited to a period of thirty (30) days after your first use of our Products, or, if such limitation on duration is not permitted under applicable law, to the minimum period permitted under applicable law.
+
+## 18. Indemnification
+
+To the maximum extent permitted by applicable law, you agree to indemnify and hold Starlie and its directors, officers, employees, agents, successors, and assigns (collectively, the **"Indemnified Parties"**) harmless from and against any third-party claim, liability, loss, injury, damage, cost, or expense (including reasonable legal fees) incurred by Starlie or any Indemnified Party arising out of or relating to your: (a) use of the Products; (b) your User Content; (c) your violation or breach of any provision in these Terms of Use or your violation of any rights of a third party; (d) your violation of applicable laws or regulations; or (e) your provision of any child's information, or the giving or withdrawal of any consent on a child's behalf, in breach of your representations and warranties in Section 2 (Eligibility; Parent/Guardian Status and Authority). This Section does not require you to indemnify any Indemnified Party to the extent a claim arises from that party's own gross negligence, wilful misconduct, or fraud, or where indemnification is prohibited by applicable mandatory law.
+
+## 19. Termination
+
+These Terms of Use shall remain in full force and effect for any period of time in which you are a user. You may terminate your Account at any time and for any reason by providing notice of termination to us by sending an email to [CONTACT EMAIL]. We may suspend or terminate your Account and/or suspend or terminate providing our Products to you (a) immediately, if we, in our sole discretion, believe that you are in breach of these Terms of Use; (b) at any time, if we decide, in our sole discretion, to stop providing the applicable Product, by sending an email to you at the email address that you have provided for your Account or posting a notice in our Products; or (c) for any or no reason, by sending an email to you at the email address that you have provided for your Account. If you terminate your Account, we have no obligation to refund you any fees. If we terminate your Account without cause, we will refund you a pro rata portion of any fees that you have paid for the unused portion of the applicable subscription period(s). You understand that any termination of these Terms of Use and/or your Account may involve deletion from our databases of the information you provided in connection with your Account. We will have no liability whatsoever to you for any suspension or termination of your Account or any suspension or termination of our Products, or any deletion of any information you have provided to us. We may modify our Products at any time, for any reason, in our sole discretion. The following Sections will survive any termination of these Terms of Use: 2, 3 (to the extent any amounts are owed by you as of termination of these Terms of Use), 4, 5, 6A (but not the license granted therein to you), 6B, 6C, 6E, 8 through 11, and 12 through 25.
+
+## 20. Amendment
+
+These Terms of Use may be amended by Starlie from time to time. If we make material changes to these Terms of Use, we may notify you by posting the revised Terms of Use in our Products or notifying you at your primary email address (if any, as specified in your Account information). You are responsible at all times for updating your Account to provide to us your most current email address. If the last email address that you have provided to us is not valid, or for any reason is not capable of delivering to you the notice described above, our dispatch of the email containing such notice will nonetheless constitute effective notice of the changes described in the notice. Any changes to these Terms of Use will be effective immediately for new users of our Products; otherwise, these changes will be effective upon the earlier of five (5) calendar days following our dispatch of an email notice to you or five (5) calendar days following our posting of a notice in our Products. Your continued use of our Products five (5) calendar days after the changes are first notified by Starlie as described above will constitute your agreement to such changes. If you object to any change, your sole recourse shall be to immediately terminate your Account and cease using the Products. Except as otherwise provided in this Section, no amendment to these Terms of Use will be valid.
+
+## 21. Intended Audience
+
+Our Products are operated by Starlie. We make no representation that materials in our Products are appropriate or available for use in all locations. Those who choose to access our Products from any location do so on their own initiative and are responsible for compliance with local or national laws, as applicable. The software, technology, and other information from our Products may be subject to export controls and the import laws of your jurisdiction. By accessing or using any software, technology, or other information from our Products in any manner whatsoever, you represent and warrant that you are not located in, under the control of, or a national or resident of any country or party subject to applicable trade sanctions or restrictions that would prohibit such access or use.
+
+## 22. General Provisions
+
+Our failure to exercise or enforce any right or provision of these Terms of Use shall not operate as a waiver of such right or provision. If any provision in these Terms of Use is, for any reason, held to be invalid or unenforceable, the other provisions of these Terms of Use will be unimpaired and the invalid or unenforceable provision will be deemed modified so that it is valid and enforceable to the maximum extent permitted by law. The section titles in these Terms of Use are for convenience only and have no legal or contractual effect. The word "including" means including without limitation. These Terms of Use, and any other additional terms located within particular areas of our Products, constitute the entire agreement between you and Starlie regarding the use of the Products.
+
+## 23. International Users
+
+[CHANGED — jurisdiction set to UKRAINE; original referenced the United States and the State of California.]
+
+These Terms of Use were written in English. To the extent any translated version of this agreement conflicts with the English version, the English version controls. If you choose to use the Products or other services from a region of the world with laws governing data collection and use that may differ from the laws of Ukraine, then please note that your Personal Information (as defined in the Privacy Policy) may be processed as described in the Privacy Policy, and by providing your Personal Information you consent to the application of the laws of Ukraine with respect to any dispute arising from or related to these Terms of Use (except for any dispute arising out of your use of a Third Party Company's services, which shall be governed by the applicable Third Party Company's terms of use and/or privacy policy), other than such rules, regulations, case law, and/or international treaties that would result in the application of the laws of a jurisdiction other than Ukraine.
+
+## 24. Governing Law
+
+[CHANGED — governing law and forum set to UKRAINE; original specified the State of California, USA.]
+
+These Terms of Use, and any claim, dispute, or controversy of any nature arising out of or relating to these Terms of Use, shall be governed by and construed solely and exclusively in accordance with the laws of Ukraine, without giving effect to any conflict-of-laws rule that would result in the application of the law of another jurisdiction. You expressly agree and consent to the exclusive jurisdiction and venue of the competent courts of Ukraine for the resolution of any such dispute, to the extent permitted by applicable mandatory consumer-protection law.
+
+## 25. Contact Information
+
+If you have any questions about these Terms of Use, please contact us by email at [CONTACT EMAIL] or by writing to us at [LEGAL ENTITY — to be completed], [REGISTERED ADDRESS], in each case marking the message "Attention: Terms of Use."
+
+Last Updated: June 21, 2026
