@@ -1,15 +1,3 @@
-<!--
-TO COMPLETE BEFORE PUBLISHING
-This document contains the following placeholders that must be filled in before publication:
-- [CONTACT EMAIL]
-Note: Governing law / Terms / Privacy references point to the Starlie Terms of Use and Privacy Policy (Ukraine-governed). No website URLs are used (app-only product).
-CHANGES FLAGGED (this revision):
-- "Not a Medical Service or Device" section strengthened: Starlie provides general informational/educational content only, is not a medical service, gives no medical advice/diagnosis/treatment, and is not a medical device. Wording implying the Services assess condition, diagnose, or recommend treatment has been removed.
-- New "Artificial Intelligence Outputs" section added (AI output may be inaccurate/incomplete; auto-generated; does not account for individual situation; do not rely on it).
-- "Emergencies" carve-out broken out and strengthened.
-- "Assumption of Risk and Acknowledgement" section added (user is solely responsible for use of the information; not a substitute for a professional).
--->
-
 # Disclaimer
 
 ## No Medical Advice; Not a Medical Service or Device
@@ -41,6 +29,6 @@ By accessing or using the Services, you acknowledge and agree that:
 - To the maximum extent permitted by applicable law, Starlie disclaims liability for any loss or damage arising from your reliance on information provided by the Services. Nothing in this Disclaimer excludes or limits any liability that cannot be excluded or limited under applicable mandatory law (including liability for death or personal injury caused by negligence, or for fraud or gross negligence);
 - Use of the Services is subject to Starlie's Terms of Use and Privacy Policy.
 
-If you have any questions about this Disclaimer, please contact us at [CONTACT EMAIL].
+If you have any questions about this Disclaimer, please contact us at support@starlie.co.
 
 Last Updated: June 21, 2026
