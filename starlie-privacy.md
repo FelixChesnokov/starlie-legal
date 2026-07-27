@@ -1,6 +1,6 @@
 # Privacy Policy
 
-This privacy policy (**"Privacy Policy"**) explains how your personal information is collected, used, and disclosed by Felix Chesnokov (**"Starlie," "we," "us,"** or **"our"**). This Privacy Policy applies to users of the Starlie mobile application on mobile phones or tablets, and to any and all data or information related to or derived from your personal interaction with us. The mobile application is referred to as the **"Products"** in this document.
+This privacy policy (**"Privacy Policy"**) explains how your personal information is collected, used, and disclosed by Individual Entrepreneur (FOP) Feliks Chesnokov, registered in Ukraine (**"Starlie," "we," "us,"** or **"our"**). This Privacy Policy applies to users of the Starlie mobile application on mobile phones or tablets, and to any and all data or information related to or derived from your personal interaction with us. The mobile application is referred to as the **"Products"** in this document.
 
 For this Privacy Policy, the following definitions apply:
 
@@ -15,7 +15,7 @@ By registering with us or using our Products, you acknowledge that you have read
 
 ## Data Controller
 
-The controller responsible for your personal information is Felix Chesnokov, located at Topol 1, 11.37, Dnipro, 49000, Ukraine. You can contact us about this Privacy Policy or about your personal information by email at support@starlie.co.
+The controller responsible for your personal information is Individual Entrepreneur (FOP) Feliks Chesnokov, located at Topol 1, 11.37, Dnipro, 49000, Ukraine. You can contact us about this Privacy Policy or about your personal information by email at support@starlie.co.
 
 ## Parent or Guardian as the Person Responsible for the Child's Data
 
@@ -40,13 +40,23 @@ For users in Ukraine, we process personal data on one of the grounds set out in 
 
 Some of the information you may record about your child is delicate in nature, including information about sleep, feeding (including allergens introduced and any reactions), diapers and bathroom habits, growth measurements, and any photos or attachments. Such information may reveal information relating to health and is treated as a special category of data under GDPR Article 9 and as "delicate data" under Article 7 of the Law of Ukraine No. 2297-VI.
 
-We process this delicate information only on the basis of your explicit consent. This consent is requested through separate, specific, and granular controls within the Products, and is not bundled into your acceptance of the Terms of Use. You can give or withdraw each consent independently, at any time, through the in-app privacy controls, and withdrawing a consent will not affect your ability to use the core, non-dependent features of the Products. If you do not provide a particular consent, we will not process the corresponding category of delicate information, and the features that depend on it may be unavailable.
+We process this delicate information only on the basis of your explicit consent (GDPR Art. 9(2)(a) and the equivalent provisions of applicable law). You give this explicit consent when you accept this Privacy Policy and create an Account, and each time you choose to enter such information into the Products. You may withdraw your consent at any time by deleting the relevant information, by deleting your Account in the app, or by contacting us at support@starlie.co; withdrawal does not affect the lawfulness of processing before withdrawal. If you withdraw your consent, we will stop processing the corresponding delicate information, and the features that depend on it may be unavailable.
+
+## AI Features and Our AI Provider (Anthropic)
+
+The Starlie AI assistant and the personalized "tip of the day" feature are powered by large language models provided by **Anthropic, PBC**, a U.S. company ("Anthropic"), acting as our data processor (sub-processor).
+
+When you use these AI features, we transmit the following categories of information to Anthropic's API for processing on our behalf: your child's first name, age, and gender; aggregated tracking data for approximately the preceding 7–14 days (sleep, feeding, pumping, diapers, walks, growth measurements, and solids/allergen journal entries, including recorded reactions); the text of your diary entries for approximately the preceding 3 days; and the messages you send to the AI assistant. We do not transmit your photos or attachments to Anthropic.
+
+This processing is based on your explicit consent (GDPR Art. 6(1)(a) and Art. 9(2)(a), the equivalent provisions of the UK GDPR, and the Law of Ukraine No. 2297-VI), which you give when you accept this Privacy Policy and create an Account. You may withdraw this consent at any time by contacting us at support@starlie.co or by deleting your Account; if you withdraw consent, the AI features will no longer be available to you.
+
+Anthropic processes this information under its commercial API terms, under which Anthropic may use the data solely to provide the API services to us and does not use data submitted through its commercial API to train its models. Anthropic may process the data on servers located in the United States. For transfers from the EU/EEA and the UK, we rely on appropriate safeguards, including the European Commission's Standard Contractual Clauses (with the UK Addendum, as applicable) and/or Anthropic's participation in applicable data-transfer frameworks. For transfers governed by Ukrainian law, we rely on your unambiguous consent and the mechanisms permitted under Article 29 of Law No. 2297-VI.
 
 ## International Transfers of Personal Information
 
-Your personal information may be transferred to, stored in, or processed in Ukraine and in other countries where we or our service providers operate. The hosting and processing locations are: Amazon Web Services — EU (Stockholm, Sweden). These countries may have privacy laws that differ from those in your jurisdiction.
+Your personal information may be transferred to, stored in, or processed in Ukraine and in other countries where we or our service providers operate. The hosting and processing locations are: Amazon Web Services — EU (Stockholm, Sweden) for storage of your Account data, tracking data, diary entries, and photos; and the United States, where our AI provider (Anthropic, PBC) processes the data described in the section "AI Features and Our AI Provider (Anthropic)". These countries may have privacy laws that differ from those in your jurisdiction.
 
-To provide the Products, we use third-party processors that may process personal information in their own countries or in other countries. These processors include our hosting and infrastructure provider(s), the identity providers used for social login (Google, Apple, and Facebook), and the provider of the AI features used in the Starlie AI assistant. Each processor is permitted to process the information only to provide services to us and in accordance with our instructions.
+To provide the Products, we use third-party processors that may process personal information in their own countries or in other countries. These processors include our hosting and infrastructure provider(s) and the provider of the AI features used in the Starlie AI assistant (Anthropic, PBC). Each processor is permitted to process the information only to provide services to us and in accordance with our instructions. The identity providers used for social login (Google, Apple, and Facebook) are independent controllers of the information they process during sign-in, under their own privacy policies.
 
 When we transfer personal information internationally, we rely on one or more of the following mechanisms, as applicable:
 
@@ -78,10 +88,10 @@ As we are an application and service that helps improve the wellness of young ch
     - Other child development and behavioral improvement markers and behaviors.
   - Information that you voluntarily provide to us about your child, including diary entries (such as thoughts, notes, achievements, and mood) and any photos or attachments you choose to add.
 - Any and all information about your child will only be used in the context of providing services through the Products and will be held in the strictest confidence.
-- If you choose to register for or sign in to one of our Products using Google, Apple, or Facebook (social login), we receive from that provider your name and email address. We use this information solely to create and identify your Account and to sign you in. We do not receive your password for the third-party service, and we receive only the information that you authorize the provider to share during the sign-in process. Your use of social login is also governed by that provider's own privacy policy.
+- If you choose to register for or sign in to one of our Products using Google, Apple, or Facebook (social login), we receive from that provider your name and email address. We use this information solely to create and identify your Account and to sign you in. We do not receive your password for the third-party service, and we receive only the information that you authorize the provider to share during the sign-in process. Your use of social login is also governed by that provider's own privacy policy; the provider acts as an independent controller of the information it processes during sign-in.
 - Specific Products may ask you for and collect additional information, such as your date of birth (to assist with customer service).
 - If you choose to add information to your user profile, we will collect that information, including any profile photo you choose to upload.
-- When you pay for one of our Products, your payment is processed by the applicable app store (such as the Apple App Store or Google Play Store). We do not collect or store your complete credit card or other payment method information.
+- When you pay for one of our Products, your payment is processed by the applicable app store (such as the Apple App Store). We do not collect or store your complete credit card or other payment method information.
 
 ### Information About You That Is Created When You Use Our Products
 
@@ -90,7 +100,7 @@ As we are an application and service that helps improve the wellness of young ch
 
 ## How We Get and Store Information About You
 
-- Our Products may use device identifiers and similar standard technologies to enable our Products to work, to keep you logged in, and to personalize your experience. Our Products may also cause data collection by third parties (for example, analytics or attribution providers). This Privacy Policy does not cover these third party technologies, since we do not have any control over them.
+- Our Products may use device identifiers and similar standard technologies to enable our Products to work, to keep you logged in, and to personalize your experience. We do not currently use third-party analytics, attribution, or advertising SDKs in the Products. If we introduce an analytics provider in the future, it will act as our data processor under a data-processing agreement, and we will update this Privacy Policy before such processing begins. We do not use third-party advertising networks, and we do not permit any third party to collect personal information through the Products for its own purposes.
 - Our Products on mobile phones and tablets store information about you on your mobile phone or tablet.
 - Our Products store information about you on computer servers and databases managed by us and hosted by third party companies.
 
@@ -98,8 +108,9 @@ As we are an application and service that helps improve the wellness of young ch
 
 - We use your Personal Information to provide our service to you, to personalize your experience with our Products, to improve our Products, and to secure your Account.
 - We may use your Personal Information to send you transactional messages and push notifications (such as a password reset, growth-spurt predictions, reminders, or notices of material changes to our Terms of Use or this Privacy Policy) and, where permitted, promotional messages (such as a special offer).
-- We may create Anonymous Information from your Personal Information, for example by making a copy of the data collected by or created in our Products that is not linked to your Personal Information. We reserve the right to use and disclose Anonymous Information at our discretion.
+- We may create Anonymous Information from your Personal Information, for example by making a copy of the data collected by or created in our Products that is not linked to your Personal Information. We may use aggregated or fully anonymised information — information that can no longer be linked to you or your child by us or by anyone else — for statistics, research, and product improvement. We apply recognised anonymisation techniques before any such use.
 - We may use Anonymous Information to conduct scientific studies, and we may publish the results, for example at scientific conferences or in research journals. We do not use Personal Information in such work, nor do we disclose Personal Information in the conduct of such work.
+- The Products do not make any decision producing legal effects or similarly significantly affecting you or your child based solely on automated processing. AI-generated content is informational only and always subject to your own judgment.
 
 ## How We Disclose Information About You
 
@@ -107,7 +118,11 @@ Except as otherwise stated in this Privacy Policy, we do not trade, rent, or sha
 
 ### Situations Where We Disclose Personal Information About You With Specific Protections For You To Ensure Our Products Work And You Can Use Them Properly
 
-We may provide your Personal Information to third party service providers who work on behalf of or with us to provide functionality to our Products, such as hosting, AI processing, analytics services, and complementary childcare services. These service providers are obligated to use your Personal Information only to provide services to us and not to disclose your Personal Information (except pursuant to a legal requirement such as a subpoena or warrant).
+We may provide your Personal Information to third party service providers who work on behalf of or with us to provide functionality to our Products, such as hosting, AI processing, and complementary childcare services. These service providers are obligated to use your Personal Information only to provide services to us and not to disclose your Personal Information (except pursuant to a legal requirement such as a subpoena or warrant).
+
+### Sharing Within Your Family Group
+
+If you join or create a family group in the Products, the members of that family group can view and edit the child profiles and tracking data shared with the group. You should only invite people you trust to your family group. If a member leaves the family group or is removed from it, that member loses access to the group's data; however, entries that the member added while part of the group may remain in the group.
 
 ### Specific Business Deals May Require Us to Share Your Personal Information
 
@@ -126,7 +141,7 @@ We offer you choices regarding the collection, use, and sharing of your Personal
 
 ## Data Retention
 
-We retain your and your child's personal information for as long as your Account is active and for as long as needed to provide the Products and to fulfil the purposes described in this Privacy Policy.
+We retain your and your child's personal information for as long as your Account is active and for as long as needed to provide the Products and to fulfil the purposes described in this Privacy Policy. As a rule: account and child profile data are retained for the life of your Account and deleted within 30 days after Account deletion; server backups are purged on a rolling basis within 90 days; support correspondence is retained for up to 24 months.
 
 When you delete your Account, or when we no longer need your personal information for the purposes for which it was collected, we delete it from our active databases or anonymise it so that it can no longer be linked to you or your child, except where we are required or permitted by applicable law to retain it for a longer period (for example, to comply with legal, tax, or regulatory obligations, or to establish, exercise, or defend legal claims). Where we are required to retain certain information for a defined period, we will fulfil a deletion request only after that period has ended. We may continue to use Anonymous Information after deletion, as described in this Privacy Policy.
 
@@ -146,21 +161,29 @@ To exercise any of these rights, please contact us at support@starlie.co. We wil
 
 You also have the right to lodge a complaint with a supervisory authority. In Ukraine, the supervisory authority is the Ukrainian Parliament Commissioner for Human Rights (the Ombudsman). If you are in the European Union or the European Economic Area, you may lodge a complaint with the Data Protection Authority in your country of residence, place of work, or place of the alleged infringement.
 
-## Regarding Children
+## Users in the United Kingdom (UK GDPR)
 
-Except as to the collection of data regarding your child to effectively use our Products (as set forth above), our Products are not directed to individuals under 13, and we do not knowingly collect personal information from children under 13, except for that information which is voluntarily provided by a child's parent or guardian to run and improve the Products. This is different from information that may be provided by children under the age of 13. If you become aware that a child has provided us with personal information, please contact us at support@starlie.co.
+If you are in the United Kingdom, we process your and your child's personal information in accordance with the UK General Data Protection Regulation (UK GDPR) and the Data Protection Act 2018. You have the same rights as those described in the section "Your Data Protection Rights," which you can exercise by contacting us at support@starlie.co. You also have the right to lodge a complaint with the Information Commissioner's Office (ICO); see ico.org.uk. For transfers of personal information out of the United Kingdom, we rely on the UK International Data Transfer Agreement (IDTA) or the UK Addendum to the European Commission's Standard Contractual Clauses, or another lawful transfer mechanism.
 
-If we become aware that a child under 13 has provided us with personal information, we will take steps to delete such information immediately. Any and all information about your child will only be used in the context of providing services through the Products and will be held in the strictest confidence.
+## California Residents (CCPA/CPRA)
 
-## Do Not Track Compliance
+This section applies to California residents and supplements the rest of this Privacy Policy. Under the California Consumer Privacy Act, as amended by the California Privacy Rights Act (CCPA/CPRA), we collect the following categories of personal information: identifiers (such as your name, email address, and IP address); account details; characteristics (such as your child's age and gender, provided by you as the parent or guardian); usage data (such as actions taken in the Products); coarse geolocation derived from your IP address; photos you choose to upload; and sensitive personal information (health-adjacent information about your child, such as sleep, feeding, allergen, and growth records, and your diary entries).
 
-We do track your use of the Products over time, because such tracking is required for us to track your progress through the Products and to provide you with functionality in the Products that is tailored to you. Therefore, our Products do not respond to Do Not Track (**"DNT"**) signals. We do not track the users of our Products across third party websites to provide targeted advertising directly to those websites.
+We do not sell personal information and do not share personal information for cross-context behavioral advertising, and we have no actual knowledge of selling or sharing the personal information of consumers under 16 years of age. We use and disclose sensitive personal information only for the purposes permitted by the CCPA/CPRA, such as providing the Products you request, securing the Products, and preventing fraud.
+
+California residents have the right to know and access the personal information we collect, to delete it, to correct inaccurate information, to receive it in a portable format, to limit the use of sensitive personal information, and not to be discriminated against for exercising these rights. To exercise these rights, contact us at support@starlie.co. We will verify your request using the email address associated with your Account. You may also use an authorized agent to submit a request on your behalf; we may require proof of the agent's authority. We honor opt-out preference signals such as the Global Privacy Control (GPC) to the extent required by applicable law.
+
+## Children's Privacy
+
+The Products are intended for use only by adults — parents and legal guardians. Children may not create Accounts or use the Products. We do not knowingly collect personal information directly from children under 13 (or a higher age where applicable law provides for one). All information about a child in the Products is provided by the child's parent or legal guardian, who consents to its processing as described in this Privacy Policy, consistent with the Children's Online Privacy Protection Act (COPPA), under which a parent may provide such information and consent on the child's behalf. Any and all information about your child will only be used in the context of providing services through the Products and will be held in the strictest confidence. If you believe a child has provided us with personal information directly, please contact us at support@starlie.co, and we will delete such information immediately.
 
 ## Third Party Products, Services, Content, and Links
 
 Please be aware that the terms of this Privacy Policy do not apply to third party products, services, or content, or to links provided for the foregoing in our Products. Third party providers of such third party products, services, or content may collect (via tracking technologies) and use information regarding your interaction with the third party product, service, or content that they deliver and with which you interact.
 
 ## Security
+
+We protect your and your child's information using administrative, technical, and physical safeguards, including encryption of personal information at rest in our databases, storage of photos in access-controlled cloud storage, and encryption in transit (TLS) between your device and our servers. Your information is stored on servers managed by us and hosted by Amazon Web Services in the European Union (Stockholm, Sweden), except for the AI processing by Anthropic described above.
 
 We make reasonable efforts to protect your Personal Information, but no company, including Starlie, can fully eliminate security risks connected to handling information on the Internet.
 
@@ -170,10 +193,10 @@ Furthermore, we cannot be responsible for any of your Personal Information that 
 
 ## Amendment
 
-This Privacy Policy may be amended by Starlie from time to time. If we make material changes to this Privacy Policy, we will notify you by posting the revised Privacy Policy in our Products or notifying you at your primary email address (if any, as specified in your Account information). You are responsible at all times for updating your Account to provide to us your most current email address. If the last email address that you have provided to us is not valid, or for any reason is not capable of delivering to you the notice described above, our dispatch of the email containing such notice will nonetheless constitute effective notice of the changes described in the notice. Any changes to this Privacy Policy will be effective immediately for new users of our Products; otherwise, these changes will be effective upon the earlier of five (5) calendar days following our dispatch of an email notice to you or five (5) calendar days following our posting of a notice in our Products. Your continued use of our Products five (5) calendar days after the changes are first notified by Starlie as described above will constitute your agreement to such changes. If you object to any change, your sole recourse shall be to immediately terminate your Account and cease using the Products. Except as otherwise provided in this Section, no amendment to this Privacy Policy will be valid.
+This Privacy Policy may be amended by Starlie from time to time. If we make material changes to this Privacy Policy, we will notify you by posting the revised Privacy Policy in our Products or notifying you at your primary email address (if any, as specified in your Account information). You are responsible at all times for updating your Account to provide to us your most current email address. If the last email address that you have provided to us is not valid, or for any reason is not capable of delivering to you the notice described above, our dispatch of the email containing such notice will nonetheless constitute effective notice of the changes described in the notice. Any changes to this Privacy Policy will be effective immediately for new users of our Products. For existing users, material changes will be effective thirty (30) calendar days following our dispatch of an email notice to you or thirty (30) calendar days following our posting of a notice in our Products, whichever occurs first; non-material changes will be effective upon the earlier of five (5) calendar days following our dispatch of an email notice to you or five (5) calendar days following our posting of a notice in our Products. Your continued use of our Products after the applicable notice period will constitute your agreement to such changes. Where a change concerns processing that is based on your consent (including your child's delicate information), we will ask for your renewed consent before the change applies to you. If you object to any change, your sole recourse shall be to immediately terminate your Account and cease using the Products. Except as otherwise provided in this Section, no amendment to this Privacy Policy will be valid.
 
 ## Our Contact Information
 
-If you have any questions about this Privacy Policy, please contact us by email at support@starlie.co or by writing to us at Felix Chesnokov, Topol 1, 11.37, Dnipro, 49000, Ukraine, in each case marking the message "Attention: Privacy Policy."
+If you have any questions about this Privacy Policy, please contact us by email at support@starlie.co or by writing to us at FOP Feliks Chesnokov, Topol 1, 11.37, Dnipro, 49000, Ukraine, in each case marking the message "Attention: Privacy Policy."
 
-Last Updated: June 21, 2026
+Last Updated: July 20, 2026
