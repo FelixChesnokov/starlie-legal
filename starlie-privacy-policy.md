@@ -15,7 +15,7 @@ By registering with us or using our Products, you acknowledge that you have read
 
 ## Data Controller
 
-The controller responsible for your personal information is Individual Entrepreneur (FOP) Feliks Chesnokov, located at Topol 1, 11.37, Dnipro, 49000, Ukraine. You can contact us about this Privacy Policy or about your personal information by email at support@starlie.co.
+The controller responsible for your personal information is Individual Entrepreneur (FOP) Feliks Chesnokov, located at Topol 1, 11.37, Dnipro, 49000, Ukraine. You can contact us about this Privacy Policy or about your personal information by email at support.starlie@gmail.com.
 
 ## Parent or Guardian as the Person Responsible for the Child's Data
 
@@ -23,7 +23,7 @@ The Products are designed for use by a parent or legal guardian to track and sup
 
 By providing a child's information, you confirm that you are the parent or legal guardian of that child, or that you have the consent of a parent or legal guardian of that child, and that you have the authority to provide that information and to give, manage, and withdraw the consents described in this Privacy Policy on the child's behalf.
 
-We rely on you, the parent or guardian, to decide what information about your child you share with us and to keep that information accurate. You can review, change, or delete the child's information at any time through the Products or by contacting us at support@starlie.co.
+We rely on you, the parent or guardian, to decide what information about your child you share with us and to keep that information accurate. You can review, change, or delete the child's information at any time through the Products or by contacting us at support.starlie@gmail.com.
 
 ## Legal Bases for Processing
 
@@ -40,7 +40,7 @@ For users in Ukraine, we process personal data on one of the grounds set out in 
 
 Some of the information you may record about your child is delicate in nature, including information about sleep, feeding (including allergens introduced and any reactions), diapers and bathroom habits, growth measurements, and any photos or attachments. Such information may reveal information relating to health and is treated as a special category of data under GDPR Article 9 and as "delicate data" under Article 7 of the Law of Ukraine No. 2297-VI.
 
-We process this delicate information only on the basis of your explicit consent (GDPR Art. 9(2)(a) and the equivalent provisions of applicable law). You give this explicit consent when you accept this Privacy Policy and create an Account, and each time you choose to enter such information into the Products. You may withdraw your consent at any time by deleting the relevant information, by deleting your Account in the app, or by contacting us at support@starlie.co; withdrawal does not affect the lawfulness of processing before withdrawal. If you withdraw your consent, we will stop processing the corresponding delicate information, and the features that depend on it may be unavailable.
+We process this delicate information only on the basis of your explicit consent (GDPR Art. 9(2)(a) and the equivalent provisions of applicable law). You give this explicit consent when you accept this Privacy Policy and create an Account, and each time you choose to enter such information into the Products. You may withdraw your consent at any time by deleting the relevant information, by deleting your Account in the app, or by contacting us at support.starlie@gmail.com; withdrawal does not affect the lawfulness of processing before withdrawal. If you withdraw your consent, we will stop processing the corresponding delicate information, and the features that depend on it may be unavailable.
 
 ## AI Features and Our AI Provider (Anthropic)
 
@@ -48,7 +48,7 @@ The Starlie AI assistant and the personalized "tip of the day" feature are power
 
 When you use these AI features, we transmit the following categories of information to Anthropic's API for processing on our behalf: your child's first name, age, and gender; aggregated tracking data for approximately the preceding 7–14 days (sleep, feeding, pumping, diapers, walks, growth measurements, and solids/allergen journal entries, including recorded reactions); the text of your diary entries for approximately the preceding 3 days; and the messages you send to the AI assistant. We do not transmit your photos or attachments to Anthropic.
 
-This processing is based on your explicit consent (GDPR Art. 6(1)(a) and Art. 9(2)(a), the equivalent provisions of the UK GDPR, and the Law of Ukraine No. 2297-VI), which you give when you accept this Privacy Policy and create an Account. You may withdraw this consent at any time by contacting us at support@starlie.co or by deleting your Account; if you withdraw consent, the AI features will no longer be available to you.
+This processing is based on your explicit consent (GDPR Art. 6(1)(a) and Art. 9(2)(a), the equivalent provisions of the UK GDPR, and the Law of Ukraine No. 2297-VI), which you give when you accept this Privacy Policy and create an Account. You may withdraw this consent at any time by contacting us at support.starlie@gmail.com or by deleting your Account; if you withdraw consent, the AI features will no longer be available to you.
 
 Anthropic processes this information under its commercial API terms, under which Anthropic may use the data solely to provide the API services to us and does not use data submitted through its commercial API to train its models. Anthropic may process the data on servers located in the United States. For transfers from the EU/EEA and the UK, we rely on appropriate safeguards, including the European Commission's Standard Contractual Clauses (with the UK Addendum, as applicable) and/or Anthropic's participation in applicable data-transfer frameworks. For transfers governed by Ukrainian law, we rely on your unambiguous consent and the mechanisms permitted under Article 29 of Law No. 2297-VI.
 
@@ -137,7 +137,7 @@ We may be required by law, or by law enforcement officers acting under the color
 We offer you choices regarding the collection, use, and sharing of your Personal Information.
 
 - You can manage your notification preferences, indicating that you want or do not want to receive informational or promotional push notifications or messages (such as a special offer). As long as you maintain an Account with us, you will receive transactional messages (such as a password reset, or notices of material changes to our Terms of Use or this Privacy Policy).
-- You may change the information you submitted for your Account either in the Products or by contacting us at support@starlie.co. You may request deletion of your Personal Information by us, but please note that we may be required (by law or otherwise) to keep this information and not delete it (or to keep this information for a certain time, in which case we will comply with your deletion request only after we have fulfilled such requirements). When we delete Personal Information, it will be deleted from the active database. When we delete your Personal Information, we will retain data derived from your use of the Products as Anonymous Information that is no longer linked to your deleted Personal Information.
+- You may change the information you submitted for your Account either in the Products or by contacting us at support.starlie@gmail.com. You may request deletion of your Personal Information by us, but please note that we may be required (by law or otherwise) to keep this information and not delete it (or to keep this information for a certain time, in which case we will comply with your deletion request only after we have fulfilled such requirements). When we delete Personal Information, it will be deleted from the active database. When we delete your Personal Information, we will retain data derived from your use of the Products as Anonymous Information that is no longer linked to your deleted Personal Information.
 
 ## Data Retention
 
@@ -157,13 +157,13 @@ Subject to applicable law, you have the following rights in relation to your per
 - **Objection:** to object to processing that is based on our legitimate interests, and to object to processing for direct-marketing purposes; and
 - **Withdrawal of consent:** to withdraw any consent you have given at any time, without affecting the lawfulness of processing carried out before the withdrawal.
 
-To exercise any of these rights, please contact us at support@starlie.co. We will respond within the time limits required by applicable law. We may need to verify your identity before acting on a request.
+To exercise any of these rights, please contact us at support.starlie@gmail.com. We will respond within the time limits required by applicable law. We may need to verify your identity before acting on a request.
 
 You also have the right to lodge a complaint with a supervisory authority. In Ukraine, the supervisory authority is the Ukrainian Parliament Commissioner for Human Rights (the Ombudsman). If you are in the European Union or the European Economic Area, you may lodge a complaint with the Data Protection Authority in your country of residence, place of work, or place of the alleged infringement.
 
 ## Users in the United Kingdom (UK GDPR)
 
-If you are in the United Kingdom, we process your and your child's personal information in accordance with the UK General Data Protection Regulation (UK GDPR) and the Data Protection Act 2018. You have the same rights as those described in the section "Your Data Protection Rights," which you can exercise by contacting us at support@starlie.co. You also have the right to lodge a complaint with the Information Commissioner's Office (ICO); see ico.org.uk. For transfers of personal information out of the United Kingdom, we rely on the UK International Data Transfer Agreement (IDTA) or the UK Addendum to the European Commission's Standard Contractual Clauses, or another lawful transfer mechanism.
+If you are in the United Kingdom, we process your and your child's personal information in accordance with the UK General Data Protection Regulation (UK GDPR) and the Data Protection Act 2018. You have the same rights as those described in the section "Your Data Protection Rights," which you can exercise by contacting us at support.starlie@gmail.com. You also have the right to lodge a complaint with the Information Commissioner's Office (ICO); see ico.org.uk. For transfers of personal information out of the United Kingdom, we rely on the UK International Data Transfer Agreement (IDTA) or the UK Addendum to the European Commission's Standard Contractual Clauses, or another lawful transfer mechanism.
 
 ## California Residents (CCPA/CPRA)
 
@@ -171,11 +171,11 @@ This section applies to California residents and supplements the rest of this Pr
 
 We do not sell personal information and do not share personal information for cross-context behavioral advertising, and we have no actual knowledge of selling or sharing the personal information of consumers under 16 years of age. We use and disclose sensitive personal information only for the purposes permitted by the CCPA/CPRA, such as providing the Products you request, securing the Products, and preventing fraud.
 
-California residents have the right to know and access the personal information we collect, to delete it, to correct inaccurate information, to receive it in a portable format, to limit the use of sensitive personal information, and not to be discriminated against for exercising these rights. To exercise these rights, contact us at support@starlie.co. We will verify your request using the email address associated with your Account. You may also use an authorized agent to submit a request on your behalf; we may require proof of the agent's authority. We honor opt-out preference signals such as the Global Privacy Control (GPC) to the extent required by applicable law.
+California residents have the right to know and access the personal information we collect, to delete it, to correct inaccurate information, to receive it in a portable format, to limit the use of sensitive personal information, and not to be discriminated against for exercising these rights. To exercise these rights, contact us at support.starlie@gmail.com. We will verify your request using the email address associated with your Account. You may also use an authorized agent to submit a request on your behalf; we may require proof of the agent's authority. We honor opt-out preference signals such as the Global Privacy Control (GPC) to the extent required by applicable law.
 
 ## Children's Privacy
 
-The Products are intended for use only by adults — parents and legal guardians. Children may not create Accounts or use the Products. We do not knowingly collect personal information directly from children under 13 (or a higher age where applicable law provides for one). All information about a child in the Products is provided by the child's parent or legal guardian, who consents to its processing as described in this Privacy Policy, consistent with the Children's Online Privacy Protection Act (COPPA), under which a parent may provide such information and consent on the child's behalf. Any and all information about your child will only be used in the context of providing services through the Products and will be held in the strictest confidence. If you believe a child has provided us with personal information directly, please contact us at support@starlie.co, and we will delete such information immediately.
+The Products are intended for use only by adults — parents and legal guardians. Children may not create Accounts or use the Products. We do not knowingly collect personal information directly from children under 13 (or a higher age where applicable law provides for one). All information about a child in the Products is provided by the child's parent or legal guardian, who consents to its processing as described in this Privacy Policy, consistent with the Children's Online Privacy Protection Act (COPPA), under which a parent may provide such information and consent on the child's behalf. Any and all information about your child will only be used in the context of providing services through the Products and will be held in the strictest confidence. If you believe a child has provided us with personal information directly, please contact us at support.starlie@gmail.com, and we will delete such information immediately.
 
 ## Third Party Products, Services, Content, and Links
 
@@ -197,6 +197,6 @@ This Privacy Policy may be amended by Starlie from time to time. If we make mate
 
 ## Our Contact Information
 
-If you have any questions about this Privacy Policy, please contact us by email at support@starlie.co or by writing to us at FOP Feliks Chesnokov, Topol 1, 11.37, Dnipro, 49000, Ukraine, in each case marking the message "Attention: Privacy Policy."
+If you have any questions about this Privacy Policy, please contact us by email at support.starlie@gmail.com or by writing to us at FOP Feliks Chesnokov, Topol 1, 11.37, Dnipro, 49000, Ukraine, in each case marking the message "Attention: Privacy Policy."
 
 Last Updated: July 20, 2026

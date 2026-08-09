@@ -39,6 +39,6 @@ By accessing or using the Services, you acknowledge and agree that:
 - To the maximum extent permitted by applicable law, Starlie disclaims liability for any loss or damage arising from your reliance on information provided by the Services. Nothing in this Disclaimer excludes or limits any liability that cannot be excluded or limited under applicable mandatory law (including liability for death or personal injury caused by negligence, or for fraud or gross negligence);
 - Use of the Services is subject to Starlie's Terms of Use and Privacy Policy.
 
-If you have any questions about this Disclaimer, please contact us at support@starlie.co.
+If you have any questions about this Disclaimer, please contact us at support.starlie@gmail.com.
 
 Last Updated: July 20, 2026
