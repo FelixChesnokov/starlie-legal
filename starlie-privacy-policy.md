@@ -52,11 +52,21 @@ This processing is based on your explicit consent (GDPR Art. 6(1)(a) and Art. 9(
 
 Anthropic processes this information under its commercial API terms, under which Anthropic may use the data solely to provide the API services to us and does not use data submitted through its commercial API to train its models. Anthropic may process the data on servers located in the United States. For transfers from the EU/EEA and the UK, we rely on appropriate safeguards, including the European Commission's Standard Contractual Clauses (with the UK Addendum, as applicable) and/or Anthropic's participation in applicable data-transfer frameworks. For transfers governed by Ukrainian law, we rely on your unambiguous consent and the mechanisms permitted under Article 29 of Law No. 2297-VI.
 
+## Product Analytics (PostHog)
+
+To understand how the Products are used and to improve them, we use the analytics service **PostHog**, provided by PostHog, Inc. ("PostHog"), acting as our data processor under a data-processing agreement. We use PostHog's EU Cloud, and the analytics data is hosted in the European Union (Frankfurt, Germany).
+
+The information processed for analytics is limited to: usage events (for example, which screens you view, which buttons you tap, and which features you use, such as adding a tracking entry or opening an article); technical information about your device (device model, operating system and version, app version, screen size, language, and your IP address, which is used to derive an approximate, city-level location); and an internal numeric account identifier that allows us to count unique users and understand usage across sessions.
+
+We do not send to PostHog: your name or email address; your child's name, birthdate, or the content of any tracking records; the content of your diary entries; the content of your messages to the AI assistant; or your photos and attachments. Analytics events describe actions (for example, "a sleep entry was created"), never the recorded content, and no special categories of data are processed for analytics.
+
+We process this information on the basis of our legitimate interests (GDPR Art. 6(1)(f)) in understanding and improving how the Products are used, and, for users in Ukraine, on the equivalent grounds under the Law of Ukraine No. 2297-VI. PostHog may process this information only to provide the analytics service to us and may not use it for its own purposes.
+
 ## International Transfers of Personal Information
 
-Your personal information may be transferred to, stored in, or processed in Ukraine and in other countries where we or our service providers operate. The hosting and processing locations are: Amazon Web Services — EU (Stockholm, Sweden) for storage of your Account data, tracking data, diary entries, and photos; and the United States, where our AI provider (Anthropic, PBC) processes the data described in the section "AI Features and Our AI Provider (Anthropic)". These countries may have privacy laws that differ from those in your jurisdiction.
+Your personal information may be transferred to, stored in, or processed in Ukraine and in other countries where we or our service providers operate. The hosting and processing locations are: Amazon Web Services — EU (Stockholm, Sweden) for storage of your Account data, tracking data, diary entries, and photos; the European Union (Frankfurt, Germany), where our analytics provider (PostHog, Inc.) hosts the usage analytics data described in the section "Product Analytics (PostHog)"; and the United States, where our AI provider (Anthropic, PBC) processes the data described in the section "AI Features and Our AI Provider (Anthropic)". These countries may have privacy laws that differ from those in your jurisdiction.
 
-To provide the Products, we use third-party processors that may process personal information in their own countries or in other countries. These processors include our hosting and infrastructure provider(s) and the provider of the AI features used in the Starlie AI assistant (Anthropic, PBC). Each processor is permitted to process the information only to provide services to us and in accordance with our instructions. The identity providers used for social login (Google, Apple, and Facebook) are independent controllers of the information they process during sign-in, under their own privacy policies.
+To provide the Products, we use third-party processors that may process personal information in their own countries or in other countries. These processors include our hosting and infrastructure provider(s), the provider of the AI features used in the Starlie AI assistant (Anthropic, PBC), and our product-analytics provider (PostHog, Inc., with data hosted in the European Union). Each processor is permitted to process the information only to provide services to us and in accordance with our instructions. The identity providers used for social login (Google, Apple, and Facebook) are independent controllers of the information they process during sign-in, under their own privacy policies.
 
 When we transfer personal information internationally, we rely on one or more of the following mechanisms, as applicable:
 
@@ -100,7 +110,7 @@ As we are an application and service that helps improve the wellness of young ch
 
 ## How We Get and Store Information About You
 
-- Our Products may use device identifiers and similar standard technologies to enable our Products to work, to keep you logged in, and to personalize your experience. We do not currently use third-party analytics, attribution, or advertising SDKs in the Products. If we introduce an analytics provider in the future, it will act as our data processor under a data-processing agreement, and we will update this Privacy Policy before such processing begins. We do not use third-party advertising networks, and we do not permit any third party to collect personal information through the Products for its own purposes.
+- Our Products may use device identifiers and similar standard technologies to enable our Products to work, to keep you logged in, and to personalize your experience. We use one third-party product-analytics provider, PostHog, acting as our data processor as described in the section "Product Analytics (PostHog)". We do not use attribution or advertising SDKs, we do not use third-party advertising networks, and we do not permit any third party to collect personal information through the Products for its own purposes.
 - Our Products on mobile phones and tablets store information about you on your mobile phone or tablet.
 - Our Products store information about you on computer servers and databases managed by us and hosted by third party companies.
 
@@ -199,4 +209,4 @@ This Privacy Policy may be amended by Starlie from time to time. If we make mate
 
 If you have any questions about this Privacy Policy, please contact us by email at support.starlie@gmail.com or by writing to us at FOP Feliks Chesnokov, Topol 1, 11.37, Dnipro, 49000, Ukraine, in each case marking the message "Attention: Privacy Policy."
 
-Last Updated: July 20, 2026
+Last Updated: September 7, 2026
